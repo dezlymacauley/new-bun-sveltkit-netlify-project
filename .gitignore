@@ -1,0 +1,7 @@
+# Project Dependencies
+/node_modules
+
+# The output of `build run build` 
+/.netlify/
+/.svelte-kit
+/build
